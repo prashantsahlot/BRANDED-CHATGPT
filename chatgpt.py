@@ -38,7 +38,7 @@ START = f"""
 
 ✮ Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
 
-★ ᴘʀᴏᴍᴏᴛᴇ ʙʏ : [ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/BRANDED_WORLD)
+★ ᴘʀᴏᴍᴏᴛᴇ ʙʏ : [ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/Frozensupport1)
 ๏ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴜsᴇ /help
 """
 xa = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f4441585843484154475054").decode()
@@ -57,8 +57,8 @@ x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
 MAIN = [
     [
-        InlineKeyboardButton(text="☆ ᴜᴘᴅᴀᴛᴇ ☆" , url=f"https://t.me/BRANDRD_BOT"),
-        InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", url=f"https://t.me/BRANDED_WORLD"),
+        InlineKeyboardButton(text="☆ ᴜᴘᴅᴀᴛᴇ ☆" , url=f"https://t.me/frozenupdates1"),
+        InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", url=f"https://t.me/frozenupdates1"),
     ],
     [
         InlineKeyboardButton(
@@ -70,15 +70,15 @@ MAIN = [
         InlineKeyboardButton(text="♥ ʜᴇʟᴘ & ᴄᴍᴅs ♥", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="☆ ʜᴇʀᴏᴋᴜ ☆", url=f"https://t.me/BRANDED_PAID_CC"),
-        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/BRANDEDKING82"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/frozenupdates1"),
+        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/frozen_owner1"),
     ],
 ]
 X = [
     [
-        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/BRANDEDKING82"),
+        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/frozen_owner1"),
               
-        InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", url=f"https://t.me/BRANDED_WORLD"),
+        InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", url=f"https://t.me/Frozensupport1"),
     ]
     ]
     
@@ -91,15 +91,15 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", 
-                              url=f"https://t.me/BRANDED_WORLD",
+                              url=f"https://t.me/Frozensupport1",
          ),
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ʀᴇᴘᴏ' , url=f"https://telegra.ph//file/5374701ae0678848e9631.mp4")]])
-HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ʜᴇʟᴘ: `/chatgpt Space then write your question.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a book photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ ᴏᴡɴᴇʀ : [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82) **"
+HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ʜᴇʟᴘ: `/chatgpt Space then write your question.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a book photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ ᴏᴡɴᴇʀ : [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/frozen_owner1) **"
 HELP_BACK = [
      [
-           InlineKeyboardButton(text="★ Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ★", url=f"https://t.me/BRANDED_WORLD"),
+           InlineKeyboardButton(text="★ Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ★", url=f"https://t.me/Frozensupport1"),
            
      ],
     [
@@ -167,7 +167,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ sᴘᴇᴇᴅ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ sᴘᴇᴇᴅ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/frozen_owner1)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
@@ -255,7 +255,7 @@ async def chat(bot, message):
 s = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f4441585843484154475054").decode()
 
 if SOURCE != s:
-    print("ᴋᴀʀ ʟɪʏᴀ ᴇᴅɪᴛᴍɪʟ ɢᴀʏᴀ ꜱᴜᴋᴏᴏɴ ᴊᴇꜱᴀ ᴛʜᴀ ᴡᴇꜱᴀ ᴋᴀʀᴅᴇ ` https://github.com/WCGKING/BRANDED-CHATGPT")
+    print("ᴋᴀʀ ʟɪʏᴀ ᴇᴅɪᴛᴍɪʟ ɢᴀʏᴀ ꜱᴜᴋᴏᴏɴ ᴊᴇꜱᴀ ᴛʜᴀ ᴡᴇꜱᴀ ᴋᴀʀᴅᴇ ` https://github.com/prashantsahlot/BRANDED-CHATGPT")
     sys.exit(1)  
 
 
